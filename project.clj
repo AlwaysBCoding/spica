@@ -1,4 +1,4 @@
-(defproject alwaysbcoding/spica "0.0.1"
+(defproject alwaysbcoding/spica "0.0.2-SNAPSHOT"
   :description "A framework for building web applications with Clojure and Datomic"
   :url "http://swish.i://github.com/AlwaysBCoding/spica"
   :license {:name "Eclipse Public License"
